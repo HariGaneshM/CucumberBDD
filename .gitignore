@@ -1,0 +1,12 @@
+.classpath
+.project
+.settings
+.vscode
+/Testing.java
+reports/
+logs/
+screenshots/
+target/
+test-output/
+/.apt_generated/
+/.apt_generated_tests/
