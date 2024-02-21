@@ -4,9 +4,10 @@ Cucumber Behavior Driven Automation Framework using Java Selenium with Page Obje
 **This Framework contains:**
 1. Java Selenium
 2. Page Object Modal
-4. Page Factory pattern
-3. Rest Assured
-4. POJO for API payload
-8. Data driven from props
-9. Run Configurations:
+3. Page Factory pattern
+4. Rest Assured
+5. POJO for API payload
+6. Extend Reports
+7. Data driven from props
+8. Run Configurations:
     TestNG and Maven along with GitHub Actions

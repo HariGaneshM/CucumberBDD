@@ -59,3 +59,10 @@ jobs:
         name: Screenshots
         path: screenshots
       if: always()
+
+    - name: Upload Report
+      uses: actions/upload-artifact@v3
+      with:
+        name: Report
+        path: reports
+      if: always()
