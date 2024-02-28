@@ -9,5 +9,5 @@ Cucumber Behavior Driven Automation Framework using Java Selenium with Page Obje
 5. POJO for API payload
 6. Extend Reports
 7. Data driven from props
-8. Run Configurations:
-    TestNG and Maven along with GitHub Actions
+8. 10.Run with TestNG and Maven commands
+11.GitHub Actions Configuration with Dynamic inputs
